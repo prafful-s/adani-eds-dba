@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/prafful-s/adani-eds-dba/main"
+    url: "https://author-p121857-e1377564.adobeaemcloud.com/bin/franklin.delivery/prafful-s/adani-eds-dba/main"
     type: "markup"
     suffix: ".html"
