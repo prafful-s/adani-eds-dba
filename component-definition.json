@@ -5,7 +5,7 @@
       "id": "default",
       "components": [
         {
-          "title": "Text Component",
+          "title": "Text Component Update",
           "id": "text",
           "plugins": {
             "xwalk": {
@@ -17,7 +17,7 @@
           }
         },
         {
-          "title": "Title Component",
+          "title": "Title Component Update",
           "id": "title",
           "plugins": {
             "xwalk": {
